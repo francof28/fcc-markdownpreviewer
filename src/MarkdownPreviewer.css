@@ -1,0 +1,18 @@
+.preview {
+    background-color: white;
+    color: black;
+    min-height: 300px;
+    min-width: 400px;
+    max-width: 900px;
+}
+
+textarea {
+    min-height: 300px;
+    min-width: 400px;
+    max-width: 100%;
+}
+
+h3 {
+    font-family: "Helvetica";
+    color: #e9c46a;
+}
