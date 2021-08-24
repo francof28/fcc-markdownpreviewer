@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-markdownpreviewer/static/css/main.ca94cf2a.chunk.css",
+    "main.js": "/fcc-markdownpreviewer/static/js/main.b70f9e89.chunk.js",
+    "main.js.map": "/fcc-markdownpreviewer/static/js/main.b70f9e89.chunk.js.map",
+    "runtime-main.js": "/fcc-markdownpreviewer/static/js/runtime-main.2d83ea07.js",
+    "runtime-main.js.map": "/fcc-markdownpreviewer/static/js/runtime-main.2d83ea07.js.map",
+    "static/js/2.0c70ca05.chunk.js": "/fcc-markdownpreviewer/static/js/2.0c70ca05.chunk.js",
+    "static/js/2.0c70ca05.chunk.js.map": "/fcc-markdownpreviewer/static/js/2.0c70ca05.chunk.js.map",
+    "static/js/3.286a4291.chunk.js": "/fcc-markdownpreviewer/static/js/3.286a4291.chunk.js",
+    "static/js/3.286a4291.chunk.js.map": "/fcc-markdownpreviewer/static/js/3.286a4291.chunk.js.map",
+    "index.html": "/fcc-markdownpreviewer/index.html",
+    "static/css/main.ca94cf2a.chunk.css.map": "/fcc-markdownpreviewer/static/css/main.ca94cf2a.chunk.css.map",
+    "static/js/2.0c70ca05.chunk.js.LICENSE.txt": "/fcc-markdownpreviewer/static/js/2.0c70ca05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d83ea07.js",
+    "static/js/2.0c70ca05.chunk.js",
+    "static/css/main.ca94cf2a.chunk.css",
+    "static/js/main.b70f9e89.chunk.js"
+  ]
+}
